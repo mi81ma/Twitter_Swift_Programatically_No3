@@ -73,6 +73,7 @@
 		6972BBBB217B644600C45AA7 /* Controller */ = {
 			isa = PBXGroup;
 			children = (
+				69934704217B42F500A747A6 /* HomeDatasourceController.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -106,7 +107,6 @@
 				69C716F7217B40480083EB3F /* HomeController.swift */,
 				69C716EC217B40120083EB3F /* Assets.xcassets */,
 				69C716EE217B40120083EB3F /* LaunchScreen.storyboard */,
-				69934704217B42F500A747A6 /* HomeDatasourceController.swift */,
 				69C716F1217B40120083EB3F /* Info.plist */,
 			);
 			path = Twitter_Swift_Programatically_No3;
